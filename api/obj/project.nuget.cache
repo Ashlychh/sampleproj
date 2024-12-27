@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFe5Jh4sTQ4=",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\sampleprojec\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADIConsulting\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\ADIConsulting\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
